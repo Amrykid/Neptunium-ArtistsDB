@@ -46,24 +46,30 @@
     <AltName Lang="kr">비에이피</AltName>
   
   </Artist>
-  <Artist Name="Ailee" JPopAsiaUrl="http://www.jpopasia.com/ailee/" FanArtTVUrl="https://fanart.tv/artist/cecc42fb-9657-4b54-ad2f-7b73eefaef12/ailee/">
+  <Artist Name="Ailee" JPopAsiaUrl="http://www.jpopasia.com/ailee/" 
+          FanArtTVUrl="https://fanart.tv/artist/cecc42fb-9657-4b54-ad2f-7b73eefaef12/ailee/">
     <AltName Lang="kr">에일리</AltName>
   </Artist>
   <Artist Name="f(x)" JPopAsiaUrl="http://www.jpopasia.com/fx/"
-          MusicBrainzUrl="https://musicbrainz.org/artist/37fa0bfd-8bf7-422c-a97a-f8deda49b3a4" FanArtTVUrl="https://fanart.tv/artist/37fa0bfd-8bf7-422c-a97a-f8deda49b3a4/fx/">
+          MusicBrainzUrl="https://musicbrainz.org/artist/37fa0bfd-8bf7-422c-a97a-f8deda49b3a4" 
+          FanArtTVUrl="https://fanart.tv/artist/37fa0bfd-8bf7-422c-a97a-f8deda49b3a4/fx/">
     <AltName Lang="kr">에프엑스</AltName>
   </Artist>
   <Artist Name="A9" JPopAsiaUrl="http://www.jpopasia.com/alicenine/">
     <AltName Lang="jp">アリス九號</AltName>
     <AltName>Alice Nine</AltName>
   </Artist>
-  <Artist Name="Koda Kumi" JPopAsiaUrl="http://www.jpopasia.com/kumikoda/" FanArtTVUrl="https://fanart.tv/artist/455641ea-fff4-49f6-8fb4-49f961d8f1ac/koda-kumi/">
+  <Artist Name="Koda Kumi" JPopAsiaUrl="http://www.jpopasia.com/kumikoda/" 
+          FanArtTVUrl="https://fanart.tv/artist/455641ea-fff4-49f6-8fb4-49f961d8f1ac/koda-kumi/"
+          MusicBrainzUrl="https://musicbrainz.org/artist/455641ea-fff4-49f6-8fb4-49f961d8f1ac">
     <AltName Lang="jp">倖田來未</AltName>
     <AltName>Kumi Koda</AltName>
   </Artist>
   <Artist Name="school food punishment" JPopAsiaUrl="http://www.jpopasia.com/schoolfoodpunishment/" />
   <Artist Name="GARNiDELiA" JPopAsiaUrl="http://www.jpopasia.com/garnidelia/" FanArtTVUrl="https://fanart.tv/artist/9bdb5e93-32e4-4dbb-9fac-b8771e1c1551/garnidelia/" />
-  <Artist Name="LiSA" JPopAsiaUrl="http://www.jpopasia.com/lisa/">
+  <Artist Name="LiSA" JPopAsiaUrl="http://www.jpopasia.com/lisa/" SayAs="Lisa"
+          MusicBrainzUrl="https://musicbrainz.org/artist/85d76093-9865-4605-97fa-8c910929d366"
+          FanArtTVUrl="https://fanart.tv/artist/85d76093-9865-4605-97fa-8c910929d366/lisa/">
     <AltName Lang="jp">織部里沙</AltName>
   </Artist>
   <!--Fun Fact: These two entries below are the same person (in case it wasn't obvious from the name).-->
@@ -163,7 +169,9 @@
   <Artist Name="Hyolyn" JPopAsiaUrl="https://www.jpopasia.com/hyorin/" FanArtTVUrl="https://fanart.tv/artist/75aff57c-d397-4e6c-b5fc-1f32d7761512/hyolyn/" OriginCountry="KR" PartOf="SISTAR">
     <AltName Lang="kr">효린</AltName>
   </Artist>
-  <Artist Name="Big Bang" JPopAsiaUrl="https://www.jpopasia.com/bigbang/" FanArtTVUrl="https://fanart.tv/artist/ec2bcb77-b9a1-49e2-bfe7-419586bbef48/bigbang/" OriginCountry="KR">
+  <Artist Name="Big Bang" JPopAsiaUrl="https://www.jpopasia.com/bigbang/" 
+          FanArtTVUrl="https://fanart.tv/artist/ec2bcb77-b9a1-49e2-bfe7-419586bbef48/bigbang/" OriginCountry="KR"
+          MusicBrainzUrl="https://musicbrainz.org/artist/ec2bcb77-b9a1-49e2-bfe7-419586bbef48">
     <AltName>BIGBANG</AltName>
     <AltName Lang="kr">빅뱅</AltName>
   </Artist>
@@ -199,5 +207,41 @@
           MusicBrainzUrl="https://musicbrainz.org/artist/7de0221e-e572-46ad-942b-64a70fc49b5c" OriginCountry="KR">
     <AltName Lang="kr">유키스</AltName>
     <AltName Lang="jp">ユーキス</AltName>
+  </Artist>
+  <Artist Name="BTS" JPopAsiaUrl="https://www.jpopasia.com/bangtanboys/" 
+          FanArtTVUrl="https://fanart.tv/artist/799e663b-c351-4715-8f7d-9d7dd262d232/bts-bangtan-boys/" 
+          MusicBrainzUrl="https://musicbrainz.org/artist/0d79fe8e-ba27-4859-bb8c-2f255f346853" OriginCountry="KR">
+    <AltName Lang="kr">방탄소년단</AltName>
+    <AltName Lang="en">Bangtan Boys</AltName>
+  </Artist>
+  <Artist Name="Wonder Girls" JPopAsiaUrl="https://www.jpopasia.com/wondergirls/" 
+          FanArtTVUrl="https://fanart.tv/artist/fcc7e9c8-3474-4221-b83a-27890982e0fa/wonder-girls/" 
+          MusicBrainzUrl="https://musicbrainz.org/artist/fcc7e9c8-3474-4221-b83a-27890982e0fa" OriginCountry="KR">
+    <AltName Lang="kr">원더걸스</AltName>
+  </Artist>
+  <Artist Name="Mamamoo" JPopAsiaUrl="https://www.jpopasia.com/mamamoo/" 
+          FanArtTVUrl="https://fanart.tv/artist/fb588f59-af1a-493a-9508-ed487caa2a11/mamamoo/" 
+          MusicBrainzUrl="https://musicbrainz.org/artist/fb588f59-af1a-493a-9508-ed487caa2a11" OriginCountry="KR">
+    <AltName Lang="kr">마마무</AltName>
+    <AltName Lang="en">MAMAMOO</AltName>
+  </Artist>
+  <Artist Name="VIXX" SayAs="vicks" JPopAsiaUrl="https://www.jpopasia.com/vixx/" 
+          FanArtTVUrl="https://fanart.tv/artist/270bebcb-f400-4912-a8ed-1827ae562405/vixx/" 
+          MusicBrainzUrl="https://musicbrainz.org/artist/270bebcb-f400-4912-a8ed-1827ae562405" OriginCountry="KR">
+    <AltName Lang="kr">빅스</AltName>
+  </Artist>
+  <Artist Name="Teen Top" JPopAsiaUrl="https://www.jpopasia.com/teentop/" 
+          FanArtTVUrl="https://fanart.tv/artist/7b957f04-3270-43e5-863e-4de2b659babc/teen-top/" 
+          MusicBrainzUrl="https://musicbrainz.org/artist/7b957f04-3270-43e5-863e-4de2b659babc" OriginCountry="KR">
+    <AltName Lang="kr">틴탑</AltName>
+  </Artist>
+  <Artist Name="BP POP"
+          FanArtTVUrl="https://fanart.tv/artist/77406fe4-84b2-4d9a-a1bb-f21f7291ff75/bppop/" 
+          MusicBrainzUrl="https://musicbrainz.org/artist/77406fe4-84b2-4d9a-a1bb-f21f7291ff75" OriginCountry="KR">
+    <AltName Lang="en">BPPOP</AltName>
+  </Artist>
+  <Artist Name="Sandaime J Soul Brothers" JPopAsiaUrl="https://www.jpopasia.com/jsoulbrothers/"
+          MusicBrainzUrl="https://musicbrainz.org/artist/3cd75f3a-c9f3-48e1-9dfa-f1dd9253d366" OriginCountry="JP">
+    <AltName Lang="jp">三代目</AltName>
   </Artist>
 </Artists>
