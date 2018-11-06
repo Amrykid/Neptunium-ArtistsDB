@@ -163,7 +163,8 @@
     <AltName Lang="kr">가희</AltName>
     <AltName>Park Ji Young</AltName>
   </Artist>
-  <Artist Name="2NE1" JPopAsiaUrl="https://www.jpopasia.com/2ne1/" FanArtTVUrl="https://fanart.tv/artist/e119e5ff-0de0-421c-a630-0516c6acede8/2ne1/" OriginCountry="KR">
+  <Artist Name="2NE1" JPopAsiaUrl="https://www.jpopasia.com/2ne1/" FanArtTVUrl="https://fanart.tv/artist/e119e5ff-0de0-421c-a630-0516c6acede8/2ne1/"
+          MusicBrainzUrl="https://musicbrainz.org/artist/e119e5ff-0de0-421c-a630-0516c6acede8" OriginCountry="KR">
     <AltName Lang="kr">투애니원</AltName>
   </Artist>
   <Artist Name="Hyolyn" JPopAsiaUrl="https://www.jpopasia.com/hyorin/" FanArtTVUrl="https://fanart.tv/artist/75aff57c-d397-4e6c-b5fc-1f32d7761512/hyolyn/" OriginCountry="KR" PartOf="SISTAR">
