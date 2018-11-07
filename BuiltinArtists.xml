@@ -110,7 +110,8 @@
     <AltName>Amuro Namie</AltName>
     <AltName Lang="jp">安室奈美恵</AltName>
   </Artist>
-  <Artist Name="SISTAR" JPopAsiaUrl="http://www.jpopasia.com/sistar/" FanArtTVUrl="https://fanart.tv/artist/f5bff650-07d0-4f8c-bf48-45497f465b79/sistar/">
+  <Artist Name="SISTAR" JPopAsiaUrl="http://www.jpopasia.com/sistar/" FanArtTVUrl="https://fanart.tv/artist/f5bff650-07d0-4f8c-bf48-45497f465b79/sistar/"
+          MusicBrainzUrl="https://musicbrainz.org/artist/f5bff650-07d0-4f8c-bf48-45497f465b79">
     <AltName Lang="kr">씨스타</AltName>
   </Artist>
   <Artist Name="Aya Hirano" JPopAsiaUrl="http://www.jpopasia.com/ayahirano/" FanArtTVUrl="https://fanart.tv/artist/dfe0486a-d8f7-449a-a1ce-192803b3b537/hirano-aya/">
