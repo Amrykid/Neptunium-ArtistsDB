@@ -290,4 +290,30 @@
           MusicBrainzUrl="https://musicbrainz.org/artist/3cd75f3a-c9f3-48e1-9dfa-f1dd9253d366" OriginCountry="JP">
     <AltName Lang="jp">三代目</AltName>
   </Artist>
+  <Artist Name="Morning Musume" JPopAsiaUrl="https://www.jpopasia.com/morningmusume/"
+          FanArtTVUrl="https://fanart.tv/artist/9bffb20c-dd17-4895-9fd1-4e73e888d799/morning-musume/"
+          MusicBrainzUrl="https://musicbrainz.org/artist/9bffb20c-dd17-4895-9fd1-4e73e888d799" OriginCountry="JP">
+    <AltName Lang="jp">モーニング娘</AltName>
+    <AltName>Morning Girls</AltName>
+    <AltName>Morning Musume '17</AltName>
+    <AltName>Morning Musume '18</AltName>
+  </Artist>
+  <Artist Name="Nana Mizuki" JPopAsiaUrl="https://www.jpopasia.com/nanamizuki/"
+          FanArtTVUrl="https://fanart.tv/artist/a80b9231-3a25-44d3-bb3d-55526d8b278d/mizuki-nana/"
+          MusicBrainzUrl="https://musicbrainz.org/artist/a80b9231-3a25-44d3-bb3d-55526d8b278d" OriginCountry="JP">
+    <AltName Lang="jp">水樹 奈々</AltName>
+    <AltName>Nana Kondo</AltName>
+  </Artist>
+  <Artist Name="Bump of Chicken" JPopAsiaUrl="https://www.jpopasia.com/bumpofchicken/"
+          FanArtTVUrl="https://fanart.tv/artist/0f718079-e5ea-4cfb-b512-b2d04da66901/bump-of-chicken/"
+          MusicBrainzUrl="https://musicbrainz.org/artist/0f718079-e5ea-4cfb-b512-b2d04da66901" OriginCountry="JP">
+    <AltName Lang="jp">バンプ・オブ・チキン</AltName>
+  </Artist>
+  <Artist Name="NMB48" JPopAsiaUrl="https://www.jpopasia.com/nmb48/"
+          FanArtTVUrl="https://fanart.tv/artist/e3e715b3-2e88-4902-869c-131f4e9a5c01/nmb48/"
+          MusicBrainzUrl="https://musicbrainz.org/artist/e3e715b3-2e88-4902-869c-131f4e9a5c01" OriginCountry="JP"
+          SayAs="N.M.B. Forty-eight">
+    <AltName Lang="jp">エヌエムビー フォーティーエイト</AltName>
+    <Related>AKB48</AltName>
+  </Artist>
 </Artists>
