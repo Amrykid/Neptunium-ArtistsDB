@@ -314,6 +314,6 @@
           MusicBrainzUrl="https://musicbrainz.org/artist/e3e715b3-2e88-4902-869c-131f4e9a5c01" OriginCountry="JP"
           SayAs="N.M.B. Forty-eight">
     <AltName Lang="jp">エヌエムビー フォーティーエイト</AltName>
-    <Related>AKB48</AltName>
+    <Related>AKB48</Related>
   </Artist>
 </Artists>
