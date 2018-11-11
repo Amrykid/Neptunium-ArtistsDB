@@ -316,4 +316,10 @@
     <AltName Lang="jp">エヌエムビー フォーティーエイト</AltName>
     <Related>AKB48</Related>
   </Artist>
+  <Artist Name="CNBLUE" JPopAsiaUrl="https://www.jpopasia.com/cnblue/"
+          FanArtTVUrl="https://fanart.tv/artist/555ab13f-acf4-415f-835d-1bc854e1236f/cnblue/"
+          MusicBrainzUrl="https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f" OriginCountry="KR">
+    <AltName Lang="kr">씨엔블루</AltName>
+    <Related>CN Blue </Related>
+  </Artist>
 </Artists>
