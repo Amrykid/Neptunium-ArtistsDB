@@ -320,6 +320,17 @@
           FanArtTVUrl="https://fanart.tv/artist/555ab13f-acf4-415f-835d-1bc854e1236f/cnblue/"
           MusicBrainzUrl="https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f" OriginCountry="KR">
     <AltName Lang="kr">씨엔블루</AltName>
-    <Related>CN Blue </Related>
+    <Related>CN Blue</Related>
+  </Artist>
+  <Artist Name="Supercell" JPopAsiaUrl="https://www.jpopasia.com/supercell/"
+          FanArtTVUrl="https://fanart.tv/artist/9b15ff5e-5bd1-43c2-821d-e31240aad334/supercell/"
+          MusicBrainzUrl="https://musicbrainz.org/artist/9b15ff5e-5bd1-43c2-821d-e31240aad334" OriginCountry="JP">
+    <Related>EGOIST</Related>
+  </Artist>
+  <Artist Name="EGOIST" JPopAsiaUrl="https://www.jpopasia.com/egoist/"
+          FanArtTVUrl="https://fanart.tv/artist/fb483f0a-d1ec-4a98-8237-0b1d7542aca7/egoist/"
+          MusicBrainzUrl="https://musicbrainz.org/artist/fb483f0a-d1ec-4a98-8237-0b1d7542aca7" OriginCountry="JP">
+    <Related>Supercell</Related>
+    <AltName Lang="en">Chelly</AltName> <!--Technically EGOIST is a group consisting of Chelly and Ryo (songwriter for Supercell) -->
   </Artist>
 </Artists>
