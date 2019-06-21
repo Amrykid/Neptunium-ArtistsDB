@@ -333,4 +333,19 @@
     <Related>Supercell</Related>
     <AltName Lang="en">Chelly</AltName> <!--Technically EGOIST is a group consisting of Chelly and Ryo (songwriter for Supercell) -->
   </Artist>
+  <Artist Name="L'Arc~en~Ciel" JPopAsiaUrl="https://www.jpopasia.com/larcenciel/"
+          FanArtTVUrl="https://fanart.tv/artist/62b61409-d13e-4281-9e3f-06941c2c5f5f/larcenciel/"
+          MusicBrainzUrl="https://musicbrainz.org/artist/62b61409-d13e-4281-9e3f-06941c2c5f5f" OriginCountry="JP">
+    <AltName Lang="jp">ラルク アン シエル</AltName>
+    <AltName Lang="jp">ラルク</AltName>
+    <AltName Lang="en">L'Arc-en-Ciel</AltName>
+    <AltName Lang="en">L'Arc</AltName>
+    <AltName Lang="en">Laruku</AltName>
+  </Artist>
+  <Artist Name="BTS" JPopAsiaUrl="https://www.jpopasia.com/bangtanboys/"
+          FanArtTVUrl="https://fanart.tv/artist/799e663b-c351-4715-8f7d-9d7dd262d232/bts-bangtan-boys/"
+          MusicBrainzUrl="https://musicbrainz.org/artist/0d79fe8e-ba27-4859-bb8c-2f255f346853" OriginCountry="KR">
+    <AltName Lang="kr">방탄소년단</AltName>
+    <AltName Lang="en">Bangtan Boys</AltName>
+  </Artist>
 </Artists>
